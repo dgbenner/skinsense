@@ -23,4 +23,4 @@ To make skincare selection more transparent and accessible by turning shelf scan
 - Future integration: live camera input and product database matching  
 - Add user testing and ingredient cross-reference modules  
 - Potential collaboration: dermatologists or formulation scientists  
-- Contact: [your site or portfolio link]
+- Contact: http://www.danux.me
